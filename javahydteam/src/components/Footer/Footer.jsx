@@ -73,7 +73,7 @@ const Footer = () => {
 
               <span>
                 {" "}
-                <a href="https://www.linkedin.com/in/aman-raj-6168b616a/">
+                <a href="https://www.linkedin.com/in/amanraj8409137477/">
                   <i class="ri-linkedin-line"></i>
                 </a>
               </span>
@@ -115,8 +115,8 @@ const Footer = () => {
             <h6 className="fw-bold">Get in Touch</h6>
 
             <p>Address: Hyderabad</p>
-            <p> Phone: +91 8578953344 </p>
-            <p>Email: amanra664@gmail.com</p>
+            <p> Phone: +91 8409137477 </p>
+            <p>Email: amanrashm@gmail.com</p>
           </Col>
         </Row>
       </Container>
